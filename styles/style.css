@@ -7,6 +7,7 @@
 }
 
 .page__heading {
+    font-family: Raleway;
     font-weight: bold;
     font-size: 115px;
     text-transform: uppercase;
@@ -44,7 +45,7 @@
     font-weight: normal;
     letter-spacing: 0;
     text-align: left;
-    padding: 36px 44px;
+    padding: 36px 36px;
     border: 2px solid #000;
     border-radius: 20px;
     background-color: #fff;
